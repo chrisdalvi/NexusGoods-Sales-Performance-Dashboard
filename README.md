@@ -3,7 +3,7 @@
 > **Quick Links:** [📄 View Full Analysis Report (PDF)](NexusGoods_Analysis_Report.pdf) | [📥 Download PBIX File (Google Drive)](https://drive.google.com/file/d/1JrjlKfjgxa5rMOcCen8ICZhU_2yVYCDe/view?usp=sharing)
 
 ## 🖥️ Dashboard Preview
-![Main Dashboard](Link_to_your_uploaded_screenshot.png)
+![Main Dashboard](Nexusgoods_Performance_Dashboard.png)
 
 ## 📝 Project Summary
 This project analyzes sales and logistics for **NexusGoods**. I transformed a raw dataset of 99K+ orders into a strategic dashboard to monitor business health.
